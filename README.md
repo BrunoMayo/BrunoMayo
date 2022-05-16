@@ -1,6 +1,6 @@
-### ¡Hola y bienvenido a mi perfil de GitHub!
+## ¡Hola y bienvenido a mi perfil de GitHub!
 
-## Soy Bruno Mayo y soy estudiante de Ingeniería en Computación en la Universidad Nacional de Río Negro
+### Soy Bruno Mayo y soy estudiante de Ingeniería en Computación en la Universidad Nacional de Río Negro
 
 
 
