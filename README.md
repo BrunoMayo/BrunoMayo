@@ -1,4 +1,7 @@
-### ¡Hola! este es el repositorio para el tp de markdown de Introducción a la Ingeniería
+### ¡Hola y bienvenido a mi perfil de GitHub!
+
+## Soy Bruno Mayo y soy estudiante de Ingeniería en Computación en la Universidad Nacional de Río Negro
+
 
 
 
