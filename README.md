@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Badge](https://bit.ly/icom-badge)
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
